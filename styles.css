@@ -1,0 +1,33 @@
+body{
+	background-color: black;
+	color: white;}
+	
+h1{
+	font-size: 300%;
+	text-align: center;
+	background-color:black;
+	color: white;}
+	
+footer{
+	font-size:75%;
+	background-color: black;
+	color: green;}
+	
+.attempt{
+	font-align: center;
+	color: green;
+	font-weight: bold;
+	
+}
+
+.slant{
+	font-size: 150%;
+	color: red;
+	font-family: "Comic Sans MS";
+}
+#picture{
+	margin-top: 75px;
+	margin-bottom: 75px;
+	margin-left: 75px;
+	margin-right: 75px
+}
